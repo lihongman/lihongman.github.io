@@ -1,5 +1,5 @@
 #header {
-  background-color: #9D9CE2;
+  background-color: #7AAFE2;
   padding: 1%;
 }
 
@@ -7,18 +7,18 @@
   border-style: solid;
   border-width: 10px;
   border-radius: 20px;
-  border-color: #8787C1;
+  border-color: #5091C9;
 }
 
 #sidebar {
-  background-color: #8787C1;
+  background-color: #5091C9;
   text-align: center;
   padding-top: 5%;
   padding-bottom: 5%;
 }
 
 #mainbody {
-  background-color: #8787C1;
+  background-color: #5091C9;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10%;
@@ -43,7 +43,7 @@
 
 html, body {
   height: 100%;
-  background-color: #9D9CE2;
+  background-color: #7AAFE2;
   display: flex;
   flex-direction: column;
 }
