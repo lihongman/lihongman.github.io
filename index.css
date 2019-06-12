@@ -59,3 +59,8 @@ a.clickicon:visited {
 a.clickicon:hover {
   color: #222222;
 }
+
+.btn {
+  border-width: 3px;
+  border-color: #555555;
+}
