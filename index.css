@@ -48,6 +48,11 @@ html, body {
   flex-direction: column;
 }
 
+a:focus {
+  outline-style: none;
+  -moz-outline-style: none;
+}
+
 .clickicon {
   height: 50px;
   width: auto;
