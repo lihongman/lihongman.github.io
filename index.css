@@ -48,16 +48,9 @@ html, body {
   flex-direction: column;
 }
 
-a.clickicon:link {
-  color: #222222;
-}
-
-a.clickicon:visited {
-  color: #222222;
-}
-
-a.clickicon:hover {
-  color: #222222;
+.clickicon {
+  height: 50px;
+  width: auto;
 }
 
 .btn {
