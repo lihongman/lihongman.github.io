@@ -61,4 +61,5 @@ a:focus {
 .btn {
   border-width: 3px;
   border-color: #555555;
+  box-shadow: none !important;
 }
