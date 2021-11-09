@@ -15,17 +15,16 @@ html, body {
   border-width: 10px;
   border-radius: 20px;
   border-color: #81a7db;
+  background-color: #81a7db;
 }
 
 #sidebar {
-  background-color: #81a7db;
   text-align: center;
   padding-top: 5%;
   padding-bottom: 5%;
 }
 
 #mainbody {
-  background-color: #81a7db;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 10%;
